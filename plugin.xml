@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = 'UTF-8' ?>
+<plugins>
+  <pyqgis_plugin name="PublicTransportFinder" version="0.0.1">
+    <description> This is the test plugin </ description>
+    <homepage>https://github.com/ItoMasayuki/PublicTransportFinder</ homepage>
+    <qgis_minimum_version>1.0</ qgis_minimum_version>
+    <file_name>PublicTransportFinder-master.zip</ file_name>
+    <author_name>Masayuki Ito</ author_name>
+    <download_url>https://codeload.github.com/ItoMasayuki/PublicTransportFinder/zip/master</download_url>
+  </ pyqgis_plugin>
+</ plugins>
