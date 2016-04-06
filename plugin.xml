@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <plugins>
-    <pyqgis_plugin name="PublicTransportFinder" version="0.0.1">
+    <pyqgis_plugin name="PublicTransportFinder" version="0.0.2">
         <description>Searches a route on public transportations with origin and destination set on the QGIS Map Canvas through timetables given</description>
         <homepage>https://github.com/ItoMasayuki/PublicTransportFinder/wiki</homepage>
         <qgis_minimum_version>2.2</qgis_minimum_version>
